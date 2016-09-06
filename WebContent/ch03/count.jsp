@@ -18,7 +18,7 @@ localCount++;
 
 %>
 
-globalCount<%=globalCount %>
-localCount<%=localCount %>
+globalCount <%=globalCount %>
+localCount <%=localCount %>
 </body>
 </html>
